@@ -6,9 +6,9 @@
 - 代码控制：可在脚本内用js操作改变日期
 - 12个月快速翻页，20年范围快速选择
 ## demo
-[demo]()
+[demo](http://xiaosang.net/pages/date_picker_oop/date_packer.html)
 ## 下载
-[github下载链接]()
+[github下载链接](https://github.com/holynova/date_picker_plug_in)
 ## 使用方法
 1. 引入文件
 ```
